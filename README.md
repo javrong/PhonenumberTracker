@@ -2,7 +2,7 @@
 Trace location a phone number build in python language
 
 ### Screenshots
-!![image(./assets/sreenshot.png)]
+![image(./assets/sreenshot.png)]
 
 ### Dependencies
 - phonenumbers
