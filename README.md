@@ -2,7 +2,7 @@
 Trace location a phone number build in python language
 
 ### Screenshots
-[<img src=""/assets/'screenshot.png" height="100" weight="150" align="left">]
+!![image(./assets/sreenshot.png)]
 
 ### Dependencies
 - phonenumbers
@@ -19,7 +19,7 @@ pip3 isntall opencage
 - folium
 
 ```sh
-pip2 install folium
+pip3 install folium
 ```
 ### Use Program
 1. Edit and input your phone number in mynumber.py file
